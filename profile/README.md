@@ -45,7 +45,7 @@ We are committed to providing a welcoming and inclusive experience for everyone.
 
 ## Contact Us
 
-For more information, questions, or feedback, please contact us at contact@hoai.lu or visit our [website](https://www.hai.lu).
+For more information, questions, or feedback, please contact us at contact@hai.lu or visit our [website](https://www.hai.lu).
 
 Let's build the future of AI together!
 
