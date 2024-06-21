@@ -1,11 +1,11 @@
-# House of AI Open Source Repository
+# Eurpoean House of Artificial Intelligence Open Source Repository
 
-Welcome to the House of AI (HoAI) open source repository, the central hub for our community-driven projects focused on advancing artificial intelligence technologies. 
+Welcome to the Eurpoean House of Artificial Intelligence (EHAI) open source repository, the central hub for our community-driven projects focused on advancing artificial intelligence technologies. 
 Our repository is home to a variety of AI projects, ranging from basic libraries to comprehensive frameworks and tools, all aimed at fostering innovation and collaboration in the AI field.
 
 ## Our Mission
 
-At HoAI, we are dedicated to pushing the boundaries of artificial intelligence through open collaboration. 
+At EHAI, we are dedicated to pushing the boundaries of artificial intelligence through open collaboration. 
 We believe in the power of community to drive forward the development of ethical, sustainable, and impactful AI technologies. 
 Our open source projects are a testament to this belief, providing a platform for enthusiasts, researchers, and developers to contribute to the AI revolution.
 
