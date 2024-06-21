@@ -1,6 +1,6 @@
 # European House of Artificial Intelligence Open Source Repository
 
-Welcome to the European House of Artificial Intelligence (EHAI) open source repository, the central hub for our community-driven projects focused on advancing artificial intelligence technologies. 
+Welcome to the European House of Artificial Intelligence (EHAI or EHoAI) open source repository, the central hub for our community-driven projects focused on advancing artificial intelligence technologies. 
 Our repository is home to a variety of AI projects, ranging from basic libraries to comprehensive frameworks and tools, all aimed at fostering innovation and collaboration in the AI field.
 
 ## Our Mission
